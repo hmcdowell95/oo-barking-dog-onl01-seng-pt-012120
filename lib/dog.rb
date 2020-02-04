@@ -1,3 +1,3 @@
 class Dog 
-  def name_set
+  def name=(dogs_name)
     name= naming
